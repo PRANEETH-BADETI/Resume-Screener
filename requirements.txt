@@ -1,10 +1,10 @@
-streamlit
+streamlit~=1.49.1
 psycopg2-binary
-pypdf2
+pypdf2~=3.0.1
 python-docx
-spacy
+spacy~=3.8.7
 sentence-transformers
 google-generativeai
 python-dotenv
 nltk
-firebase-admin
+streamlit_pdf_viewer
