@@ -1,0 +1,21 @@
+# Ignore IDE-specific configuration files
+.idea/
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore cache and log files
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+
+# Ignore secrets and key files
+.streamlit/secrets.toml
+.env
+ec2-key.pem
+
+# Ignore uploaded resume files
+resumes/
+
+# Ignore logs
+app.log

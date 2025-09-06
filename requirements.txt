@@ -1,0 +1,10 @@
+streamlit
+psycopg2-binary
+pypdf2
+python-docx
+spacy
+sentence-transformers
+google-generativeai
+python-dotenv
+nltk
+firebase-admin
